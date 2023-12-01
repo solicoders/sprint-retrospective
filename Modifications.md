@@ -74,8 +74,10 @@
 - Médecin Généraliste : formulaire de planification d'un rendez-vous :
     - La date d'enregistrement ne sera pas modifiable .
     - Pour le diagnostic, commencez d'abord par un diagnostic général, puis, à la fin, ajoutez le diagnostic final.
-    -  La phase de diagnostic devrait être une liste déroulante.
+    - 
+    - La phase de diagnostic devrait être une liste déroulante.
     - Possibilité de choisir plusieurs types de handicap pour une seule personne .
+    - Il faut ajouter les actions 'modifier' et 'reporter un rendez-vous' dans le champ d'action.
 
 ![Médecin Générale planification d'un rendez-vous](imgs/MGModification2.PNG)
 
@@ -124,9 +126,7 @@
 
 - Service social Rendez-vous :
     - Ajouter un rendez-vous pour une consultation des dossiers non complets
-    - Il faut ajouter la fonction de recherche et la pagination sur la page.
-    - Il faut ajouter les actions 'modifier' et 'reporter un rendez-vous' dans le champ d'action.
-    - date du rendez-vous incluant l'heure
+
 ![Service social Rendez-vous](imgs/SerSocModification8.png)
 
 - Service social : Rendez-vous dans barre list d'attete :
